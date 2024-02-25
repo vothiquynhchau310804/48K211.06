@@ -1,0 +1,54 @@
+CÂU HỎI PHỎNG VẤN
+Tên hệ thống: Quản lý bán hàng online và offline cho cửa hàng Mẹ Boy Bun.
+
+TÓM TẮT:
+-	Hỏi sơ lược về bản thân và cửa hàng.
+-	Quá trình nhập hàng.
+-	Quản lý đơn hàng online và offline.
+-	Quản lý doanh thu, chi phí, lợi nhuận.
+CÂU HỎI:
+CHỦ ĐỀ 1: Hỏi sơ lược về bản thân và cửa hàng.
+1.	Chị có thể giới thiệu một chút về bản thân mình được không ạ?
+2.	Chị đã kinh doanh cửa hàng được bao lâu rồi?
+3.	Đối tượng mà chị hướng đến là ai?
+4.	 Chị kinh doanh những mặt hàng nào và mặt hàng nào bán chạy nhất hay tùy thuộc vào từng thời điểm trong năm?
+CHỦ ĐỀ 2: Quá trình nhập hàng.
+1.	Từ trước đến giờ, chị đã quản lý quá trình nhập hàng như thế nào?
+2.	Làm thế nào để chị biết được thời điểm cần phải nhập hàng?
+3.	Làm thế nào để chị biết hàng hóa, sản phẩm của mình gần hết?
+4.	Trong quá trình ghi chép số lượng hàng trong kho chị có gặp khó khăn gì hay không?
+5.	Nếu nhóm bọn em thiết kế cho chị 1 trang web để quản lý thì chị có yêu cầu gì về phần quản lý quá trình nhập hàng không?
+6.	Ở phần mục hàng hóa, tụi em sẽ để một dấu cộng phía góc trái màn hình để chị  có thể thêm sản phẩm mới của mình vào, vậy chị muốn những thông tin gì vào đó ạ
+7.	Với chức năng thống kê sản phẩm thì chị muốn thống kê các sản phẩm còn lại trong kho như thế nào? Chị muốn thống kê theo ngày hay theo sản phẩm?
+8.	Vậy chị muốn sẽ có những thông tin cụ thể nào, hình ảnh, màu sắc như thế nào cho chức năng quản lý nhập hàng để chị thuận tiện cho việc quản lý cũng như dễ dàng sử dụng?
+9.	Về việc đăng tải hình ảnh sản phẩm lên hệ thống thì chị muốn tụi em chuẩn bị sẵn hình ảnh hay là chị tự thêm vào?
+10.	Mỗi sản phẩm/ mặt hàng chị nhập vào sẽ phải có các mục: tên sản phẩm, giá, số lượng, mã số và hình ảnh phải không ạ? Chị có muốn thêm gì nữa không?
+11.	Chị có muốn các mục như tìm kiếm, xóa, thêm sản phẩm không?
+
+CHỦ ĐỀ 3: Quản lý đơn hàng online và offline.
+1.	Chị quản lý đơn hàng online của cửa hàng như thế nào?
+2.	Cách quản lý này có điều gì làm chị không hài lòng không?
+3.	Với đơn hàng online thì chị ship hay khách tự tới lấy? Nếu ship thì chị dùng đơn vị nào để vận chuyển?
+4.	Chị có đang sử dụng phần mềm nào để quản lý đơn hàng onl không? (Nếu có , khi sử dụng phần mềm đó thì có những lợi ích hay bất lợi gì cho chị không)
+5.	Bên cạnh quản lý online, chị quản lý đơn hàng offline như thế nào? Chị ghi tay hay dùng hệ thống để quản lý?
+6.	Trong quá trình quản lý đơn hàng offline chị có gặp khó khăn nào không? 
+7.	Như ở quá trình nhập hàng, bọn em sẽ thiết kế quản lý đơn hàng thì chị có mong muốn gì cho quá trình quản lý đơn hàng online và offline không?
+8.	Và đối với các đơn hàng online, chị nghĩ mình có cần thêm trạng thái đơn hàng để thuận tiện cho việc theo dõi tình trạng hàng của khách không ạ?
+9.	Làm thế nào để chị biết được đó là khách hàng thường xuyên hay đã từng mua. Chị có sử dụng hóa đơn để biết không?
+10.	 (Nếu có) Chị muốn làm rõ hóa đơn có những thông tin gì không?
+
+CHỦ ĐỀ 4: Quản lý doanh thu, chi phí, lợi nhuận.
+1.	Có thời điểm các sản phẩm sẽ tiêu thụ chậm, chị làm thế nào để có thể giảm chi phí ?
+2.	Chị có sử dụng các phương tiện truyền thông nào để mọi người biết đến mình nhiều hơn không hay bằng cách nào để thu hút mọi người?
+3.	Chị có sử dụng công cụ hay phần mềm gì để tính toán doanh thu không?
+4.	Chị ghi chép doanh thu bằng cách nào?
+5.	Chị có khó khăn gì trong việc tính toán chi phí, lợi nhuận hay không?
+6.	Doanh thu sẽ được chị thống kê theo từng ngày hay từng tuần, từng tháng?
+7.	Để thuận tiện cho việc quản lý doanh thu, lợi nhuận, chi phí thì chị có yêu cầu gì đối với hệ thống hay không?
+8.	Chị muốn thống kê doanh thu của mình theo dạng gì để dễ nhìn và so sánh giữa các thời gian?
+
+
+
+
+
+
